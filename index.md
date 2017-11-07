@@ -3,6 +3,7 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+SERGIO VEGA Y EDGAR ANDRES NOVIOS POR SIEMPRE
 
 [Link to another page](another-page).
 
